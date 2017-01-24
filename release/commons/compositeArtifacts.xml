@@ -1,12 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?compositeArtifactRepository version='1.0.0'?>
-<repository name='SDQ Nightly Update Site'
+<repository name='SDQ Commons Update Site'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
     <property name='p2.timestamp' value='1243822502442'/>
   </properties>
-  <children size='2'>
-    <child location='asem'/>
-    <child location='commons'/>
+  <children size='1'>
+    <child location='1.0.0'/>
   </children>
 </repository>
