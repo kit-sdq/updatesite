@@ -7,6 +7,6 @@
   </properties>
   <children size='2'>
     <child location='asem'/>
-    <child location='familiespersons'/>
+    <child location='demo'/>
   </children>
 </repository>
