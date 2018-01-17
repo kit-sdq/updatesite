@@ -5,7 +5,7 @@
   <properties size='1'>
     <property name='p2.timestamp' value='1243822502501'/>
   </properties>
-  <children size='6'>
+  <children size='7'>
     <child location='commons'/>
     <child location='ecore2txt'/>
     <child location='metamodels'/>
