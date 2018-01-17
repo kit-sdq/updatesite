@@ -12,5 +12,6 @@
     <child location='pcm2java'/>
     <child location='xannotations'/>
     <child location='xocl'/>
+    <child location='somox'/>
   </children>
 </repository>
