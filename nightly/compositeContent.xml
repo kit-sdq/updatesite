@@ -5,14 +5,13 @@
   <properties size='1'>
     <property name='p2.timestamp' value='1243822502501'/>
   </properties>
-  <children size='8'>
+  <children size='7'>
     <child location='commons'/>
     <child location='ecore2txt'/>
     <child location='metamodels'/>
-    <child location='pcm2java'/>
-    <child location='xannotations'/>
-    <child location='xocl'/>
     <child location='somox'/>
     <child location='variabilitymodel'/>
+    <child location='xannotations'/>
+    <child location='xocl'/>
   </children>
 </repository>
