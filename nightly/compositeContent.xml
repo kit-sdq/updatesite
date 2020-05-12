@@ -10,7 +10,6 @@
     <child location='ecore2txt'/>
     <child location='metamodels'/>
     <child location='somox'/>
-    <child location='variabilitymodel'/>
     <child location='xannotations'/>
     <child location='xocl'/>
     <child location='vavemodel'/>
