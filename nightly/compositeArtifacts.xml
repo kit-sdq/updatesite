@@ -3,15 +3,15 @@
 <repository name='SDQ Nightly Update Site'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1243822502442'/>
+    <property name='p2.timestamp' value='1691055316000'/>
   </properties>
-  <children size='8'>
+  <children size='7'>
     <child location='commons'/>
     <child location='ecore2txt'/>
     <child location='metamodels'/>
     <child location='somox'/>
-	<child location='xannotations'/>
-    <child location='xocl'/>
     <child location='vavemodel'/>
+    <child location='xannotations'/>
+    <child location='xocl'/>
   </children>
 </repository>
