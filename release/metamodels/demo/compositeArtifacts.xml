@@ -3,7 +3,7 @@
 <repository name='SDQ Demo Metamodels Update Site'
     type='org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository' version='1.0.0'>
   <properties size='1'>
-    <property name='p2.timestamp' value='1691055316000'/>
+    <property name='p2.timestamp' value='1693899585'/>
   </properties>
   <children size='8'>
     <child location='1.0.0'/>
